@@ -63,3 +63,5 @@ A présent, vous avez accès à une grande liste d’intégrations custom Home A
 
 Il ne vous reste plus qu’a recherche l’extension que vous desirez installer via le moteur de recherche et proceder à son installation.
 
+Sources: https://www.domo-blog.fr/comment-installer-hacs-home-assistant-store-integrations-custom-ha/
+
